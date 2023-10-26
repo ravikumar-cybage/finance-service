@@ -1,0 +1,12 @@
+C:\Users\ravkumar\Source\Repos\mis-finance-db\Mis.Services.Finance.Database\bin\Debug\Mis.Services.Finance.Database.dacpac
+C:\Users\ravkumar\Source\Repos\mis-finance-db\Mis.Services.Finance.Database\bin\Debug\Mis.Services.Finance.Database.dll
+C:\Users\ravkumar\Source\Repos\mis-finance-db\Mis.Services.Finance.Database\bin\Debug\Mis.Services.Finance.Database.pdb
+C:\Users\ravkumar\Source\Repos\mis-finance-db\Mis.Services.Finance.Database\obj\Debug\Mis.Services.Finance.Database.sqlproj.AssemblyReference.cache
+C:\Users\ravkumar\Source\Repos\mis-finance-db\Mis.Services.Finance.Database\obj\Debug\Mis.Services.Finance.Database.dll
+C:\Users\ravkumar\Source\Repos\mis-finance-db\Mis.Services.Finance.Database\obj\Debug\Mis.Services.Finance.Database.pdb
+E:\Mis-Services\mis-finance-db\Mis.Services.Finance.Database\bin\Debug\Mis.Services.Finance.Database.dacpac
+E:\Mis-Services\mis-finance-db\Mis.Services.Finance.Database\bin\Debug\Mis.Services.Finance.Database.dll
+E:\Mis-Services\mis-finance-db\Mis.Services.Finance.Database\bin\Debug\Mis.Services.Finance.Database.pdb
+E:\Mis-Services\mis-finance-db\Mis.Services.Finance.Database\obj\Debug\Mis.Services.Finance.Database.sqlproj.AssemblyReference.cache
+E:\Mis-Services\mis-finance-db\Mis.Services.Finance.Database\obj\Debug\Mis.Services.Finance.Database.dll
+E:\Mis-Services\mis-finance-db\Mis.Services.Finance.Database\obj\Debug\Mis.Services.Finance.Database.pdb
