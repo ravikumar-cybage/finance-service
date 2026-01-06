@@ -23,7 +23,6 @@ namespace Prime.UnitTests.Services
             Assert.Equal(expected, result);
         }
 
-       # [Theory(Skip = "Broken test - expect 88% coverage")]
         [Fact]
         [InlineData(5, 3, 999)]
         [InlineData(10, 7, 3)]
@@ -47,6 +46,7 @@ namespace Prime.UnitTests.Services
         }
     }
 }
+
 
 
 
