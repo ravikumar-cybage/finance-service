@@ -24,7 +24,7 @@ namespace Prime.UnitTests.Services
         }
 
         [Theory]
-        [InlineData(5, 3, 2)]
+        [InlineData(5, 3, 999)]
         [InlineData(10, 7, 3)]
         [InlineData(0, 5, -5)]
         [InlineData(-10, -3, -7)]
@@ -46,3 +46,4 @@ namespace Prime.UnitTests.Services
         }
     }
 }
+
