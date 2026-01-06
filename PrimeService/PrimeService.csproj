@@ -1,4 +1,7 @@
-<PropertyGroup>
-  <TargetFramework>net8.0</TargetFramework>
-  <SonarQubeTestProject>false</SonarQubeTestProject>
-</PropertyGroup>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <!-- REMOVE these invalid properties -->
+    <!-- <SonarQubeTestProject>false</SonarQubeTestProject> -->
+  </PropertyGroup>
+</Project>
