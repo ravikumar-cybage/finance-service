@@ -23,7 +23,7 @@ namespace Prime.UnitTests.Services
             Assert.Equal(expected, result);
         }
 
-        [Fact]
+        [Theory]
         [InlineData(5, 3, 999)]
         [InlineData(10, 7, 3)]
         [InlineData(0, 5, -5)]
@@ -46,6 +46,7 @@ namespace Prime.UnitTests.Services
         }
     }
 }
+
 
 
 
