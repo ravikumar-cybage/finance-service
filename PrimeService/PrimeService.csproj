@@ -1,10 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
-  <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
-    <IsPackable>false</IsPackable>
-    <CoverletOutputFormat>opencover,cobertura</CoverletOutputFormat>
-    <!-- EXCLUDE FROM COVERAGE -->
-    <IsTestProject>true</IsTestProject>
-  </PropertyGroup>
-  <!-- rest unchanged -->
-</Project>
+<PropertyGroup>
+  <TargetFramework>net8.0</TargetFramework>
+  <SonarQubeTestProject>false</SonarQubeTestProject>
+</PropertyGroup>
