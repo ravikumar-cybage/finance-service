@@ -4,7 +4,8 @@
     <TargetFramework>net8.0</TargetFramework>
     <IsPackable>false</IsPackable>
     <!-- ADD THIS LINE FOR DUAL FORMAT COVERAGE -->
-    <CoverletOutputFormat>opencover,cobertura</CoverletOutputFormat>
+    <CoverletOutputFormat>cobertura</CoverletOutputFormat>
+    
   </PropertyGroup>
 
   <ItemGroup>
@@ -19,3 +20,4 @@
   </ItemGroup>
 
 </Project>
+
