@@ -44,8 +44,14 @@ namespace Prime.UnitTests.Services
             var result = _calculator.Multiply(a, b);
             Assert.Equal(expected, result);
         }
+        [Fact]
+        public void Divide_ValidNumbers_ReturnsResult()
+        {
+           Assert.Equal(2, Calculator.Divide(4, 0));
+        }
     }
 }
+
 
 
 
