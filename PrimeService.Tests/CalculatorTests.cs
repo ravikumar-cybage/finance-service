@@ -45,12 +45,13 @@ namespace Prime.UnitTests.Services
             Assert.Equal(expected, result);
         }
         [Fact]
-        public void Divide_ValidNumbers_ReturnsResult()
+        public void Divide_ValidNumbers_ReturnsResult(int a, int b)
         {
            Assert.Equal(2, Calculator.Divide(4, 0));
         }
     }
 }
+
 
 
 
