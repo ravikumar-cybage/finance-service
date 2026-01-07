@@ -44,13 +44,18 @@ namespace Prime.UnitTests.Services
             var result = _calculator.Multiply(a, b);
             Assert.Equal(expected, result);
         }
-        [Fact]
-        public void Divide_ValidNumbers_ReturnsResult(int a, int b)
+        [Theory]
+        [InlineData(4, 2, 2)]      // 4/2 = 2
+        [InlineData(10, 5, 2)]     // 10/5 = 2
+        [InlineData(8, 0, 0)]      // 8/4 = 2
+        public void Divide_ValidNumbers_ReturnsResult(int a, int b, int expected)
         {
-           Assert.Equal(2, Calculator.Divide(4, 0));
+            var result = _calculator.Divide(a, b);
+            Assert.Equal(expected, result);
         }
     }
 }
+
 
 
 
