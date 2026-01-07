@@ -13,7 +13,7 @@ namespace Prime.UnitTests.Services
         }
 
         [Theory]
-        [InlineData(2, 3, 6)]
+        [InlineData(2, 3, 5)]
         [InlineData(10, 20, 30)]
         [InlineData(-1, 1, 0)]
         [InlineData(0, 0, 0)]
@@ -46,6 +46,7 @@ namespace Prime.UnitTests.Services
         }
     }
 }
+
 
 
 
